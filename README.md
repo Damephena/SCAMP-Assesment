@@ -12,16 +12,16 @@ This program will find all the anagrams of a word from a list.
 You will be given two inputs a word and an array with words.     
 Returns an array of all the anagrams or an empty array if there are none.
 
-> Test Cases: 
-> A) 'abba', ['aabb', 'abcd', 'bbaa', 'dada']
-> B) 'racer', ['crazer', 'carer', 'racar', 'caers', 'racer']
-> C) 'laser', ['lazing', 'lazy',  'lacer']
+> Test Cases:     
+> A) 'abba', ['aabb', 'abcd', 'bbaa', 'dada']      
+> B) 'racer', ['crazer', 'carer', 'racar', 'caers', 'racer']      
+> C) 'laser', ['lazing', 'lazy',  'lacer']      
 
-Excepted output for all test cases:
-> A) ['aabb', 'bbaa']
-> B) ['carer', 'racer']
-> C) [] //empty array
+Excepted output for all test cases:      
+> A) ['aabb', 'bbaa']      
+> B) ['carer', 'racer']      
+> C) [] //empty array      
 
 #### diagonalSum.py
-This program returns an integer representing the absolute diagonal difference of a square matrix
+This program returns an integer representing the absolute diagonal difference of a square matrix      
 Note that this function `diagonalSums()` takes an array as a parameter
