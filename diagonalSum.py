@@ -9,7 +9,7 @@ The right to left diagonal =  3 + 5 + 9 = 17
 Their absolute difference is = |15 - 17| = 2
 
 Write a function called diagonalDifference in your editor. It must return an integer representing the absolute diagonal difference
-Note that this function takes an array as a parameter.
+Note that this function takes an array as a parameter..
 
 Test Cases:
 A) 11 2 4  
