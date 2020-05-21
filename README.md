@@ -24,4 +24,12 @@ Excepted output for all test cases:
 
 #### diagonalSum.py
 This program returns an integer representing the absolute diagonal difference of a square matrix      
-Note that this function `diagonalSums()` takes an array as a parameter
+Note that this function `diagonalSums()` takes an array as a parameter     
+     
+
+#### expand.py
+A program that returns number in expanded form.    
+@param: positive integer    
+@output: string    
+> Example: ex(12)    
+> returns "10 + 2"    
