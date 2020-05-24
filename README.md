@@ -33,3 +33,9 @@ A program that returns number in expanded form.
 @output: string    
 > Example: ex(12)    
 > returns "10 + 2"    
+
+#### accum.py
+A program tha returns repeated titled string    
+> Example:    
+> accum("sca")    
+> returns "S-Cc-Aaa"
