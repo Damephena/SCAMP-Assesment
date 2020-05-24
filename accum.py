@@ -7,7 +7,7 @@ def accum(string):
     result = [(letter * index) for index, letter in enumerate(string, 1)]
     return '-'.join(result).title()
     
-# single line
+# single line code
 def accum(string):
     return '-'.join([(letter * index) for index, letter in enumerate(string, 1)]).title()
     
